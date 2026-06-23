@@ -205,7 +205,7 @@ jupyter notebook "F1_MAHOI_Offcal_Projec (1).ipynb"   # Tầng ngắn hạn — 
 **Mã Thị Hồi** — Data Analyst
 Dự án thực hiện như một case study end-to-end: từ data engineering (xử lý 52M dòng), phân tích chuỗi thời gian (STL), feature engineering, modeling & so sánh nhiều thuật toán, đến chuyển hóa kết quả thành khuyến nghị vận hành cụ thể cho doanh nghiệp.
 
-📧 Liên hệ: [hoanghoi.mth@gmail.com](mailto:hoanghoi.mth@gmail.com) · *[Thêm link LinkedIn của bạn ở đây]*
+📧 Liên hệ: [hoanghoi.mth@gmail.com](mailto:hoanghoi.mth@gmail.com) 
 
 ---
 
